@@ -1,0 +1,124 @@
+
+select * from crime_scene_report where date = 20180115
+
+20180115
+
+assassinato Imagens de segurança mostram que havia 2 testemunhas.
+
+A primeira testemunha mora na última casa na "Northwestern Dr". A segunda testemunha, chamada Annabel, mora em algum lugar na "Franklin Ave". Cidade SQL
+
+select * from person where address_street_name="Northwestern Dr"ORDER BY address_number ASC
+
+14887 Morty Schapiro
+
+118009 4919
+
+Northwestern Dr
+
+111564949
+
+select * from person
+
+where address_street_name="Franklin Ave"
+
+select * from drivers license where id=
+
+118009
+
+118009 64 84
+
+blue
+
+white
+
+male
+
+00NU00
+
+Mercedes-Benz
+
+E-Class
+
+select * from get_fit_now_member
+
+where person_id = 16371
+
+90081
+
+16371 Annabel Miller
+
+20160208
+
+gold
+
+
+select * from crime_scene_report where date = 20180115
+20180115 assassinato Imagens de segurança mostram que havia 2 testemunhas.
+A primeira testemunha mora na última casa na "Northwestern Dr". A segunda
+testemunha, chamada Annabel, mora em algum lugar na "Franklin Ave".Cidade SQL
+select * from person where address_street_name="Northwestern Dr”ORDER BY
+address_number ASC
+14887 Morty Schapiro 118009 4919 Northwestern Dr 111564949
+select * from person
+where address_street_name="Franklin Ave"
+select * from drivers_license where id= 118009
+118009 64 84 blue white male 00NU00 Mercedes-Benz E-Class
+select * from get_fit_now_member
+where person_id = 16371
+90081 16371 Annabel Miller 20160208 gold
+
+select * from facebook_event_checkin
+where person_id = 14887
+14887 4719 The Funky Grooves Tour 20180115
+select * from facebook_event_checkin
+where person_id =16371
+16371 4719 The Funky Grooves Tour 20180115
+select * from get_fit_now_check_in
+where membership_id=90081
+90081 20180109 1600 1700
+select * from interview
+where person_id= 14887
+select * from interview
+where person_id= 16371
+16371 Eu vi o assassinato acontecer e reconheci o assassino da minha academia quando
+estava malhando na semana passada, dia 9 de janeiro
+select * from get_fit_now_member
+where membership_status= 'gold'
+48Z55 67318 Jeremy Bowers20160101 gold
+67318 Jeremy Bowers 423327 530 Washington Pl, Apt 3A
+871539279
+select * from drivers_license
+where id=423327
+423327 30 70 brown brown male 0H42W2 Chevrolet Spark
+LS
+Selecta * from person
+Where license_id = 423327
+67318 Jeremy Bowers423327530 Washington Pl, Apt 3A 871539279
+INSERT INTO solution VALUES (1,’ Jeremy Bowers ‘)
+select * from Interview
+where person_id=67318
+67318 Fui contratado por uma mulher com muito dinheiro. Não sei o nome dela,
+mas sei que ela tem cerca de 5'5" (65") ou 5'7" (67"). Ela tem cabelo ruivo e dirige um
+Tesla Model S. Sei que ela foi ao SQL Symphony Concert 3 vezes em dezembro de 2017.
+select * from drivers_license
+where hair_color='red'and car_make='Tesla'
+202298 68 66 green red female 500123Tesla Model S
+29118265 66 blue red female 08CM64 Tesla Model S
+73608179 69 brown red male GCAQ6Y Tesla Model S
+91877348 65 black red female 917UU3 Tesla Model S
+select * from person
+where license_id=('202298')
+99716 Miranda Priestly 2022981883 Golden Ave 987756388
+select * from person
+where license_id=('291182’)
+90700 Regina George291182332 Maple Ave 337169072
+select * from person
+where license_id=('918773')
+78881 Red Korb 918773107 Camerata Dr 961388910
+select * from facebook_event_checkin
+where person_id=99716
+select * from person
+where id=99716
+INSERT INTO solution VALUES (1, 'Miranda Priestly');
+Miranda Priestly   
+Congrats, you found the brains behind the murder! Everyone in SQL City hails you as the greatest SQL detective of all time. Time to break out the champagne!

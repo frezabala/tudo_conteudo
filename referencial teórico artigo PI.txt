@@ -1,0 +1,20 @@
+referencial teórico 
+
+
+o avanço da tecnologia móvel tem proporcionado o desenvolvimento
+de aplicativos voltados para a saúde , incluídos aqueles que auxiliam no controle da medicação    
+SILVA, R.; ALMEIDA, P. Tecnologias digitais e adesão a medicamentos: um estudo de caso. Ciência e Saúde Coletiva, v. 25, n. 4, p. 1120-1135, 2020.
+
+Os aplicativos de lembrete de medicamentos desempenham um papel essencial na adesão ao tratamento, reduzindo erros e esquecimentos por parte dos pacientes.
+
+
+
+
+A Organização Mundial da Saúde (OMS, 2019) destaca que a baixa adesão a tratamentos medicamentosos é um problema global, podendo comprometer a eficácia terapêutica. Nesse contexto, sistemas de notificação e acompanhamento digital surgem como uma solução eficaz para garantir que os pacientes tomem seus medicamentos corretamente SOUZA, L. et al. Monitoramento de pacientes via aplicativos móveis: impactos e benefícios. Revista de Saúde Digital, v. 9, n. 1, p. 50-65, 2021.
+
+
+
+Portanto, o desenvolvimento de um aplicativo de controle de medicamentos deve considerar fatores como usabilidade, acessibilidade e segurança da informação, garantindo que os dados dos usuários sejam protegidos e que as funcionalidades atendam às necessidades específicas de cada paciente COSTA, M.; LIMA, J. Aplicativos móveis para a saúde: desafios e oportunidades. Revista Brasileira de Tecnologia em Saúde, v. 12, n. 2, p. 45-60, 2023.
+
+
+
